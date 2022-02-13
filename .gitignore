@@ -1,0 +1,21 @@
+# Dependency directories
+/node_modules
+
+# Build
+/dist
+
+# Static HTML assets
+/static
+
+# Enviromental variables
+.env
+
+# IDEs
+/.vscode
+/.idea
+
+# Logs
+*.log
+
+# MacOS
+*.DS_Store
